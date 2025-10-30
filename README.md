@@ -16,6 +16,9 @@ Implementar controles básicos de seguridad en Azure AD (Entra ID):
 - ## 🛠 Diagram
 <img width="1024" height="1536" alt="ChatGPT Image Oct 30, 2025 at 07_35_52 PM" src="https://github.com/user-attachments/assets/11a662b5-87e5-42f5-9a4b-49928c27009f" />
 
+## Conditional Access Decision Flow
+<img width="1536" height="1024" alt="conditional-access" src="https://github.com/user-attachments/assets/c8f94d97-4f55-43db-b718-94ab0d015e4b" />
+
 ## 🛠 Herramientas
 - Microsoft Azure (Free Trial).
 - Azure AD / Entra ID.
